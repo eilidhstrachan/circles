@@ -15,7 +15,7 @@
         <title>Circles and towns JSON generator</title>
     </head>
     <body>
-        <h1>Circles Data Generator Test</h1>
+        <h1>Circles Data Generator Test! This is a test.</h1>
         <P>Please select an option</p>
         <p><a href="/Circles/Circles">Json circles</a></p>
         <hr>
